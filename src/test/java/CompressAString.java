@@ -19,6 +19,7 @@ public class CompressAString {
         System.out.println(map);
         map.forEach((key,value)->
                 System.out.printf(key+""+value));
+        System.out.print("testt");
 //
 
 
